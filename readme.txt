@@ -1,14 +1,14 @@
-=== Product Importer ===
+=== EpicDrop ===
 
-Contributors: nxtal
-Requires at least: 2.6
-Tested up to: 6.7
-Requires PHP: 5.5
-Stable tag: 2.6.0
+Contributors: meumouse
+Requires at least: 5.0
+Tested up to: 7.7.0
+Requires PHP: 7.3
+Stable tag: 1.0.0
 License: GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
 
 
 == Description ==
 
 
-Import product in your woocommerce shop directly from any marketplace websites supported by the extension in just one click and sale the imported product as yours or as an affiliate.
+Extensão que permite importar produtos de sites externos permitidos pela extensão em lojas WooCommerce.
